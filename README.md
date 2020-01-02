@@ -1,0 +1,1 @@
+# Spring boot mapstruct demo
